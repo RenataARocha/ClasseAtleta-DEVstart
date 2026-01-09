@@ -56,7 +56,7 @@ IMC = peso / (altura × altura)
 
 ```
 dados-atletas
-├── dados-atletas.js
+├── script.js
 └── README.md
 ```
 
@@ -76,19 +76,19 @@ dados-atletas
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/dados-atletas.git
+git clone https://github.com/RenataARocha/ClasseAtleta-DEVstart
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd dados-atletas
+cd ClasseAtleta
 ```
 
 3. Execute o arquivo JavaScript no terminal:
 
 ```bash
-node dados-atletas.js
+node script.js
 ```
 
 4. Veja o resultado no console.
@@ -129,4 +129,4 @@ Desenvolvedora Front-End em transição de carreira
 
 ## 🔗 Link do repositório
 
-[https://github.com/seu-usuario/dados-atletas](https://github.com/seu-usuario/dados-atletas)
+[https://github.com/RenataARocha/ClasseAtleta-DEVstart](https://github.com/RenataARocha/ClasseAtleta-DEVstart)
